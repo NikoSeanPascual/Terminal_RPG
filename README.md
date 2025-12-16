@@ -1,21 +1,13 @@
-# Terminal-Based To-Do List
+# Mini RPG (Python)
 
-A simple Python terminal application to manage your daily tasks. This project allows you to **add, view, remove, and clear tasks** directly from the terminal.
+A small **text-based RPG** where you play as a hero fighting goblins and making choices in a simple adventure.
 
-## Features
+Built using Python and terminal input/output, this game features turn-based battles, branching story choices, and basic RPG mechanics.
 
-- Add a task to your to-do list
-- View all tasks in the list
-- Remove a specific task by number
-- Clear all tasks
-- Exit the program
+---
 
-## How to Use
+## 🎮 How to Play
 
-1. Clone the repository or download `to-do-list.py`.
-2. Open a terminal and navigate to the folder containing `to-do-list.py`.
-3. Run the program:
-
+1. Run the game:
 ```bash
-python to-do-list.py
-****
+python mini_rpg.py
